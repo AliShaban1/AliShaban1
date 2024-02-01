@@ -1,5 +1,10 @@
 ### Hi there 👋
-
+I'm Ali Shabani, specializing in Computer Science at UofT. 
+## I’m currently learning:
+- Systems programming
+- Data Structures and Analysis
+- SQL
+- Django
 <!--
 **AliShaban1/AliShaban1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

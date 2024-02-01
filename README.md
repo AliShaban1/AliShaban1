@@ -1,6 +1,6 @@
 ### Hi there 👋
 I'm Ali Shabani, specializing in Computer Science at UofT. 
-## I’m currently learning:
+## Currently learning 🌱 
 - Systems programming
 - Data Structures and Analysis
 - SQL
